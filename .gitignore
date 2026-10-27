@@ -1,0 +1,4 @@
+# Ignorar archivo de base de datos local para evitar conflictos
+*.db
+*.sqlite
+*.sqlite3
